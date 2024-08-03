@@ -20,10 +20,10 @@ To run the program, follow these steps:
 
 2) Enter the total number of symbols to be sent.
 
-3)Select the number of symbols that will be grouped together (generation size).
+3) Select the number of symbols that will be grouped together (generation size).
 
-4)Set the packet loss probability.
+4) Set the packet loss probability.
 
-5)Choose the ratio of encoded packets to source packets being sent.
+5) Choose the ratio of encoded packets to source packets being sent.
 
 6) Selection of Packet Management Mechanisms: Choose between  drop out-of-order packet and drop generation. (For more information, refer to Kiose-thesis)
