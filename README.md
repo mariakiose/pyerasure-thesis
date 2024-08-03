@@ -15,15 +15,16 @@ To install the PyErasure library, click on the following link:
 To run the program, follow these steps:
 
 1) Open the terminal and execute the command:
-   python3 program_name seed
+   python3 program_name seed, 
+
    Replace program_name with the name of your program file and seed with a number of your choice.
 
-2) Enter the total number of symbols to be sent.
+3) Enter the total number of symbols to be sent.
 
-3) Select the number of symbols that will be grouped together (generation size).
+4) Select the number of symbols that will be grouped together (generation size).
 
-4) Set the packet loss probability.
+5) Set the packet loss probability.
 
-5) Choose the ratio of encoded packets to source packets being sent.
+6) Choose the ratio of encoded packets to source packets being sent.
 
-6) Selection of Packet Management Mechanisms: Choose between  drop out-of-order packet and drop generation. (For more information, refer to Kiose-thesis)
+7) Selection of Packet Management Mechanisms: Choose between  drop out-of-order packet and drop generation. (For more information, refer to Kiose-thesis)
