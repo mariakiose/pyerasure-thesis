@@ -4,7 +4,7 @@ This thesis explores network coding as a Forward Error Correction (FEC) techniqu
 
 # Technologies and Tools
 
-Programming Language: Python
+Programming Language: Python,
 Library: PyErasure (for data encoding and decoding)
 
 # Installation Instructions
